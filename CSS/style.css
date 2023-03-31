@@ -1,0 +1,23 @@
+*{
+    background-color: blanchedalmond;
+}
+.main{
+    margin-top: 100px;
+    padding: 50px;
+}
+input{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+img{
+    
+    width: 300px;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
